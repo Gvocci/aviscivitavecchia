@@ -1,0 +1,44 @@
+header{
+    background-color: blanchedalmond;
+    height: 40px;
+    padding: 3px 0 3px 15px;
+}
+
+body{
+    padding: 0;
+}
+
+#logo{
+    height: 100%;
+    vertical-align: middle;
+}
+#navigation, #navigation li{
+    display: inline;
+    margin-right: 10px;
+}
+
+.banner>h1{
+    text-align: center;
+}
+
+.banner>button {
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
